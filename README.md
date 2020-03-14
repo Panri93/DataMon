@@ -8,7 +8,7 @@ Aquesta pràctica pertany a l'assignatura Tipologia i cicle de vida de les dades
 La pràctica ha estat realitzada pels següents membres:
 
 - **Joel Santacana**: Graduat en Administració i Direcció d'Empreses per la Universitat de Barcelona (UB).
-- **Xavier Paricio**: Graduat en Engineryia Aeroespacial per la Universitat Politècnica de Catalunya (UPC).
+- **Xavier Paricio**: Graduat en Engineryia Aeroespacial per la Universitat Politècnica de Catalunya (UPC). 
 
 ## Fitxers del còdig font
 
