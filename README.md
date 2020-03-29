@@ -1,7 +1,7 @@
 # Pràctica 1: Web Scraping
 
 ## Descripció 
-Aquesta pràctica pertany a l'assignatura Tipologia i cicle de vida de les dades que forma part del Màster en Ciència de dades de la Universitat Oberta de Catalunya (UOC). La pràctica està orientada a aprendre a identificar les dades rellevants per a un projecte analític i usar tècniques _web scraping_ per a l'extracció de dades. El programari utilitzat per a la extracció de dades ha estat _Python_. Les dades pertanyen al lloc web _Newegg_, un portal de venta de productes electrònics. 
+Aquesta pràctica pertany a l'assignatura Tipologia i cicle de vida de les dades que forma part del Màster en Ciència de dades de la Universitat Oberta de Catalunya (UOC). La pràctica està orientada a aprendre a identificar les dades rellevants per a un projecte analític i usar tècniques _web scraping_ per a l'extracció de dades. L'algoritme s'ha dissenyat utilitzant un _Jupyter Notebook_, antigament _IPython Notebooks. Les dades pertanyen al lloc web _Newegg_, un portal de venta de productes electrònics. 
 
 ## Equip de treball
 
@@ -12,7 +12,7 @@ La pràctica ha estat realitzada pels següents membres:
 
 ## Fitxers de còdig font
 
-- **webscraper.py**. Conté l'algoritme encarregat de dur a terme el procés de webscraping i també d'escriure el fitxer de sortida.
+- **webscraper.ipynb**. Conté l'algoritme encarregat de dur a terme el procés de webscraping i també d'escriure el fitxer de sortida.
 
 ## Fitxers de sortida
 
