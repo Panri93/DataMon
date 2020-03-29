@@ -10,14 +10,16 @@ La pràctica ha estat realitzada pels següents membres:
 - **Joel Santacana**: Graduat en Administració i Direcció d'Empreses per la Universitat de Barcelona (UB).
 - **Xavier Paricio**: Graduat en Engineryia Aeroespacial per la Universitat Politècnica de Catalunya (UPC). 
 
-## Fitxers del còdig font
+## Fitxers de còdig font
 
--
--
--
+- **webscraper.py**. Conté l'algoritme encarregat de dur a terme el procés de webscraping i també d'escriure el fitxer de sortida.
+
+## Fitxers de sortida
+
+- **ordinadors.csv**. Conté les dades extretes del lloc web a través del algoritme contingut al fitxer _webscraper.py_.
 
 ## Recursos
 
--
--
--
+1. Subirats Maté, L. and Calvo González, M., 2019. Web Scraping. 1st ed. Barcelona: Oberta UOC Publishing,SL.
+2. Lawson, R., 2015. Web Scraping With Python. Birmingham, UK: Packt Publishing.
+
